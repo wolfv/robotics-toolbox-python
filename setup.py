@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages, Extension
 import os
+import numpy
 
 here = os.path.abspath(os.path.dirname(__file__))
 
